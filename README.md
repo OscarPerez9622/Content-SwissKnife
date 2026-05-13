@@ -1,33 +1,69 @@
-# Privacy Policy for Content SwissKnife
+Privacy Policy for Content SwissKnife
+Last updated: May 13, 2026
 
-**Last updated:** May 6, 2026
+Content SwissKnife is committed to protecting user privacy. This extension does not collect, transmit, sell, or share personal information with the developer or any third parties.
 
-Content SwissKnife does not collect, store, or share any personal data from users.
+1. Information Collection
 
-## Information Collection
+Content SwissKnife does not collect personally identifiable information, authentication credentials, financial information, health information, personal communications, location data, web history, or any other sensitive user data.
 
-This extension does not collect any personally identifiable information. All data processing (such as analyzing headings, images, and links) is performed locally in the user's browser.
+All analysis performed by the extension (including headings, images, links, accessibility checks, and content structure analysis) occurs locally within the user's browser.
 
-## Data Usage
+2. Data Storage
 
-The extension may temporarily store user preferences (such as filters, dark mode, and scan results) using Chrome's local storage. This data is stored only on the user's device and is not transmitted externally.
+The extension may store limited user preferences locally using the Chrome Storage API. Examples include:
 
-## Third-Party Services
+- Dark mode preference
+- Selected filters
+- Cached scan results
+- Active tab preferences
+- Feature toggle settings
 
-Content SwissKnife does not use any third-party analytics, tracking tools, or external services.
+This data is stored exclusively on the user's device and is never transmitted externally.
 
-## Remote Code
+3. Data Sharing
 
-This extension does not execute remote code. All scripts are bundled within the extension package.
+Content SwissKnife does not sell, transfer, share, or disclose user data to any third parties, advertisers, analytics providers, or external services.
 
-## Permissions Justification
+No user data is sent to external servers.
 
-Permissions such as activeTab and scripting are used solely to analyze the current webpage when the user interacts with the extension.
+4. Remote Code
 
-## Changes
+Content SwissKnife does not use remote code execution.
 
-This privacy policy may be updated in the future. Any changes will be reflected on this page.
+All JavaScript, CSS, and other executable code required for the extension is bundled directly within the extension package distributed through the Chrome Web Store.
 
-## Contact
+5. Permissions Usage
 
-If you have any questions, please contact: oscarperez9610@gmail.com
+The extension uses the following Chrome permissions solely to provide its core functionality:
+
+- activeTab:
+Used to temporarily access the currently active webpage in order to analyze content structure, headings, images, and links.
+
+- scripting:
+Used to inject local scripts into the active tab to enable page analysis features and visual highlighting tools.
+
+- storage:
+Used to save user preferences and extension settings locally on the user's device.
+
+- host permissions:
+Used only to allow the extension to analyze webpage content selected by the user.
+
+6. User Control
+
+Users may uninstall the extension at any time through Chrome's extensions management page. Removing the extension deletes all locally stored extension data.
+
+7. Children's Privacy
+
+Content SwissKnife is not directed toward children under the age of 13 and does not knowingly collect personal information from children.
+
+8. Changes to This Privacy Policy
+
+This Privacy Policy may be updated periodically. Any future changes will be reflected on this page with an updated revision date.
+
+9. Contact
+
+If you have questions regarding this Privacy Policy, please contact:
+
+Oscar Perez
+Email: oscarperez9610@gmail.com
