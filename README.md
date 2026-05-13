@@ -1,4 +1,4 @@
-Privacy Policy for Content SwissKnife
+**Privacy Policy for Content SwissKnife**
 Last updated: May 13, 2026
 
 Content SwissKnife is committed to protecting user privacy. This extension does not collect, transmit, sell, or share personal information with the developer or any third parties.
